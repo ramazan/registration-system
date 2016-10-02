@@ -1,4 +1,4 @@
- #Registration System
+#Registration System
 
  Basic user registration system with using Php - MySQL
 
